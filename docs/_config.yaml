@@ -17,7 +17,7 @@ title: Soon
 email: hello@andrewfindlay.io
 phone: 07792300766
 description: A coming soon page for Jekyll
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andrew-findlay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: alternatyves
 github_username: andrew-findlay
